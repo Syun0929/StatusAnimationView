@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatusAnimationView">
+        <attr name="sav_status" format="enum">
+            <enum name="success" value="0"></enum>
+            <enum name="fail" value="1"></enum>
+        </attr>
+        <attr name="sav_circle_radius" format="dimension"></attr>
+        <attr name="sav_circle_width" format="dimension"></attr>
+        <attr name="sav_success_color" format="color"></attr>
+        <attr name="sav_fail_color" format="color"></attr>
+    </declare-styleable>
+</resources>
