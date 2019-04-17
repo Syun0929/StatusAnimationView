@@ -10,7 +10,7 @@
         android:id="@+id/view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:sav_circle_width="2dp"
+        app:sav_circle_width="3dp"
         app:sav_circle_radius="70dp"
         app:sav_status="success"
         android:background="#ffffff"
